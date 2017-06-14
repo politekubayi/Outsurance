@@ -1,0 +1,10 @@
+c:\Users\pkubayi\documents\visual studio 2015\Projects\Polite\UnitTestPolite\bin\Debug\UnitTestPolite.dll
+c:\Users\pkubayi\documents\visual studio 2015\Projects\Polite\UnitTestPolite\bin\Debug\UnitTestPolite.pdb
+c:\Users\pkubayi\documents\visual studio 2015\Projects\Polite\UnitTestPolite\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\pkubayi\documents\visual studio 2015\Projects\Polite\UnitTestPolite\bin\Debug\Polite.exe
+c:\Users\pkubayi\documents\visual studio 2015\Projects\Polite\UnitTestPolite\bin\Debug\Polite.pdb
+c:\Users\pkubayi\documents\visual studio 2015\Projects\Polite\UnitTestPolite\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\pkubayi\documents\visual studio 2015\Projects\Polite\UnitTestPolite\obj\Debug\UnitTestPolite.csprojResolveAssemblyReference.cache
+c:\Users\pkubayi\documents\visual studio 2015\Projects\Polite\UnitTestPolite\obj\Debug\UnitTestPolite.dll
+c:\Users\pkubayi\documents\visual studio 2015\Projects\Polite\UnitTestPolite\obj\Debug\UnitTestPolite.pdb
+c:\Users\pkubayi\documents\visual studio 2015\Projects\Polite\UnitTestPolite\bin\Debug\UnitTestPolite.dll.config

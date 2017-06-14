@@ -1,0 +1,5 @@
+c:\users\pkubayi\documents\visual studio 2015\Projects\Polite\Polite\bin\Debug\Polite.exe.config
+c:\users\pkubayi\documents\visual studio 2015\Projects\Polite\Polite\bin\Debug\Polite.exe
+c:\users\pkubayi\documents\visual studio 2015\Projects\Polite\Polite\bin\Debug\Polite.pdb
+c:\users\pkubayi\documents\visual studio 2015\Projects\Polite\Polite\obj\Debug\Polite.exe
+c:\users\pkubayi\documents\visual studio 2015\Projects\Polite\Polite\obj\Debug\Polite.pdb
